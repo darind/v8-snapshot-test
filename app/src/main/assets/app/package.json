@@ -1,0 +1,8 @@
+{
+  "main": "starter",
+  "android": {
+    "v8Flags": "--expose_gc --trace_gc_verbose --trace_gc",
+    "heapSnapshotBlob": "../snapshots",
+    "markingMode": "none"
+  }
+}

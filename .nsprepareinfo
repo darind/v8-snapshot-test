@@ -1,0 +1,19 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"/home/ubuntu/nativescript/snap1/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/home/ubuntu/nativescript/snap1/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/home/ubuntu/nativescript/snap1/app/app.js": "51fe37fb0847709d2ae685dc786d3118965e8da6",
+		"/home/ubuntu/nativescript/snap1/app/main-page.js": "e3dfd3fc75a4d41d3c3ea69bbfc2e52159919e19",
+		"/home/ubuntu/nativescript/snap1/app/main-page.xml": "dadb79414737be842940881ad61a8bed20080077",
+		"/home/ubuntu/nativescript/snap1/app/main-view-model.js": "c992a312cf62a165ab32176febc47b6a4b6f2367",
+		"/home/ubuntu/nativescript/snap1/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/home/ubuntu/nativescript/snap1/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848"
+	},
+	"release": true,
+	"bundle": true,
+	"changesRequireBuild": true,
+	"time": "Fri Dec 07 2018 09:16:29 GMT+0000 (UTC)",
+	"changesRequireBuildTime": "Fri Dec 07 2018 09:16:29 GMT+0000 (UTC)",
+	"projectFileHash": "b80fb890ed1d24dc41dd3fa224eb2b1757c1510a82c5886e847c07aacde3b0f5"
+}
